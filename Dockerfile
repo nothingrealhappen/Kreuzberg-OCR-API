@@ -14,6 +14,8 @@ RUN apt-get update && apt-get install -y \
 	tesseract-ocr-deu \
 	tesseract-ocr-fra \
 	tesseract-ocr-spa \
+	tesseract-ocr-chi-sim \
+	tesseract-ocr-chi-tra \
 	# Additional dependencies that might be needed
 	build-essential \
 	libpoppler-cpp-dev \
